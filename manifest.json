@@ -1,0 +1,16 @@
+{
+  "name": "Bandari Akshaya — Portfolio",
+  "short_name": "B. Akshaya",
+  "description": "Portfolio of Bandari Akshaya, Frontend Developer & UI/UX Enthusiast.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF2F7",
+  "theme_color": "#5B7CFA",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
